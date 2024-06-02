@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "logo": "https://ibb.co/9hZxpZm",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Technical Database Engineer is responsible for designing, implementing, and maintaining database systems. The role involves ensuring the performance, availability, and security of databases.",
+    "job_responsibility": "Collaborating with cross-functional teams: Engineers often work closely with other teams, including product management, engineering, and marketing, to ensure that the database systems meet business and technical requirements. Effective communication and feedback gathering are crucial.",
+    "educational_requirements": "Bachelor's degree from a reputable university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://ibb.co/dJppyWG",
+    "job_title": "Senior Product Designer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Senior Product Designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "job_responsibility": "Collaborating with cross-functional teams: Designers often work closely with product management, engineering, and marketing teams to ensure that the user interface is aligned with business and technical requirements. Effective communication and feedback gathering are crucial.",
+    "educational_requirements": "Bachelor's degree from a reputable university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://ibb.co/xCK40mN",
+    "job_title": "Software Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Software Engineer is responsible for designing, developing, and maintaining software applications. The role requires proficiency in programming languages and software development methodologies.",
+    "job_responsibility": "Collaborating with cross-functional teams: Engineers often work closely with product management, engineering, and marketing teams to ensure that software solutions meet business and technical requirements. Effective communication and feedback gathering are crucial.",
+    "educational_requirements": "Bachelor's degree from a reputable university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://ibb.co/9hZxpZm",
+    "job_title": "Software Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Software Engineer is responsible for designing, developing, and maintaining software applications. The role requires proficiency in programming languages and software development methodologies.",
+    "job_responsibility": "Collaborating with cross-functional teams: Engineers often work closely with product management, engineering, and marketing teams to ensure that software solutions meet business and technical requirements. Effective communication and feedback gathering are crucial.",
+    "educational_requirements": "Bachelor's degree from a reputable university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://ibb.co/dJppyWG",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Technical Database Engineer is responsible for designing, implementing, and maintaining database systems. The role involves ensuring the performance, availability, and security of databases.",
+    "job_responsibility": "Collaborating with cross-functional teams: Engineers often work closely with other teams, including product management, engineering, and marketing, to ensure that the database systems meet business and technical requirements. Effective communication and feedback gathering are crucial.",
+    "educational_requirements": "Bachelor's degree from a reputable university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://ibb.co/xCK40mN",
+    "job_title": "Senior Product Designer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Senior Product Designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "job_responsibility": "Collaborating with cross-functional teams: Designers often work closely with product management, engineering, and marketing teams to ensure that the user interface is aligned with business and technical requirements. Effective communication and feedback gathering are crucial.",
+    "educational_requirements": "Bachelor's degree from a reputable university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad, Dhaka, Bangladesh"
+    }
+  }
+]
