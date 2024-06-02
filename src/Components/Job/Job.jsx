@@ -1,8 +1,10 @@
 import { CiLocationOn } from "react-icons/ci";
 import { BiDollarCircle } from "react-icons/bi";
+import { Link } from "react-router-dom";
 
 const Job = ({ job }) => {
   const {
+    id,
     logo,
     job_title,
     company_name,
@@ -47,7 +49,9 @@ const Job = ({ job }) => {
             </p>
           </div>
           <div className="card-actions justify-start">
-            <button className="btn btn-primary">View details</button>
+            <Link to={`job/${id}`}>
+              <button className="btn btn-primary">View details</button>
+            </Link>
           </div>
         </div>
       </div>
