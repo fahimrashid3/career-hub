@@ -37,11 +37,11 @@ const Job = ({ job }) => {
             </button>
           </div>
           <div className="flex gap-5 text-left text-lg">
-            <p className="flex gap-3 item-center my-auto">
+            <p className="flex mr-5 item-center my-auto">
               <CiLocationOn className="my-auto text-xl"> </CiLocationOn>
               {location}
             </p>
-            <p className="flex gap-3 item-center">
+            <p className="flex mr-5 item-center">
               <BiDollarCircle className="my-auto text-xl"></BiDollarCircle>
               {salary}
             </p>
